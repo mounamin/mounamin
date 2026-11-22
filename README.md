@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="banner.png<img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/123a1e0f-bcff-492e-9fa1-a561ec5e78ad" />
-" alt="Mouna Chaima Agha — Junior Unity & XR Developer" />
+<img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/a612c7d9-8934-41e2-bb93-d18974a0be89" />
 
 <br><br>
 
