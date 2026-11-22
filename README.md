@@ -53,4 +53,17 @@
 
 
 ### 📫 Contact
-Message me on [LinkedIn](https://www.linkedin.com/in/mouna-chaima-agha) or visit my [portfolio](https://aghamounachaima.netlify.app).
+<div align="center">
+  <a href="mailto:mounaagha39@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mounaagha39@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/mouna-chaima-agha">
+    <img src="https://img.shields.io/badge/LinkedIn-Mouna_Chaima_Agha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://aghamounachaima.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-View_my_work-111827?style=for-the-badge&logo=netlify&logoColor=3AD7DE" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/mounamin">
+    <img src="https://img.shields.io/badge/GitHub-mounamin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
