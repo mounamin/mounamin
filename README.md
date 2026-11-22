@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/a612c7d9-8934-41e2-bb93-d18974a0be89" />
+<img width="1280" height="320" alt="banner (1)" src="https://github.com/user-attachments/assets/7c29e4a5-72b8-4e03-850b-f409ad23c6ea" />
 
 <br><br>
 
@@ -35,7 +35,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/mounamin/vr-classroom-prototype"><img width="1280" height="640" alt="playedu-cover (1)" src="https://github.com/user-attachments/assets/544caed9-7f40-4634-b247-c2a3137e2970" />
+      <a href="https://github.com/mounamin/vr-classroom-prototype"><img width="1280" height="640" alt="playedu-cover (1)" src="https://github.com/user-attachments/assets/41fe6667-bcfd-4fbf-842a-cc4efc40d121" />
 </a>
       <h4>PlayEdu: AI Teacher NPC</h4>
       A Unity classroom for children aged 6–10 on Meta Quest 3S and PC, with a voice-driven AI teacher. A retrieval-augmented pipeline cut response time by 77% in my tests.<br>
