@@ -1,10 +1,7 @@
-## Hi there 👋
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mouna%20Chaima%20Agha&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Junior%20Unity%20%26%20XR%20Developer&descAlignY=68" alt="Mouna Chaima Agha banner" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=3AD7DE&center=true&vCenter=true&width=620&lines=Junior+Unity+%26+XR+Developer;MSc+in+Artificial+Intelligence;Building+voice-driven+AI+teachers+in+VR" alt="Typing headline" /></a>
+<img src="banner.png<img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/123a1e0f-bcff-492e-9fa1-a561ec5e78ad" />
+" alt="Mouna Chaima Agha — Junior Unity & XR Developer" />
 
 <br><br>
 
@@ -39,7 +36,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/mounamin/vr-classroom-prototype"><img src="assets/playedu-cover.png" alt="PlayEdu cover" /></a>
+      <a href="https://github.com/mounamin/vr-classroom-prototype"><img src="playedu-cover.png" alt="PlayEdu cover" /></a>
       <h4>PlayEdu: AI Teacher NPC</h4>
       A Unity classroom for children aged 6–10 on Meta Quest 3S and PC, with a voice-driven AI teacher. A retrieval-augmented pipeline cut response time by 77% in my tests.<br>
       <sub>Unity · C# · Python · RAG</sub><br>
@@ -56,7 +53,3 @@
 
 ### 📫 Contact
 Message me on [LinkedIn](https://www.linkedin.com/in/mouna-chaima-agha) or visit my [portfolio](https://aghamounachaima.netlify.app).
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="" />
-</div>
