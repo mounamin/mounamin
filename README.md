@@ -14,7 +14,7 @@
 
 ### 👋 About me
 - 🎓 Master's graduate in Computer Science (AI), University of Naama
-- 🥽 I built **PlayEdu**, a VR and PC classroom with a voice-driven AI teacher, running on Meta Quest 3S
+- 🥽 I built **PlayEdu**, a VR and PC classroom with a voice-driven AI teacher, running on Meta Quest 3S and PC
 - 🖐️ I built a real-time hand detection app with Kinect v1 in C#
 - 🌱 Currently building small playable Unity games
 - 🎮 Big gamer, which is why I build games
